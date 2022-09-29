@@ -1,0 +1,25 @@
+{
+  "name": "@kremda/eslint-config-vue3",
+  "version": "1.0.0",
+  "description": "eslint config for vue3",
+  "scripts": {},
+  "author": "Patrik Kremecek",
+  "license": "MIT",
+  "keywords": [
+    "eslint-config",
+    "eslint-config-vue",
+    "eslint-config-vue3"
+  ],
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint": ">=7.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.24.0"
+  },
+  "dependencies": {
+    "@vue/eslint-config-typescript": "^11.0.2",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-vue": "^9.5.1"
+  }
+}
