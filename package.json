@@ -1,6 +1,6 @@
 {
   "name": "@kremda/eslint-config-vue3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "eslint config for vue3",
   "scripts": {},
   "author": "Patrik Kremecek",
