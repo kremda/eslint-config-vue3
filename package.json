@@ -11,6 +11,10 @@
     "eslint-config-vue3"
   ],
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kremda/eslint-config-vue3"
+  },
   "peerDependencies": {
     "eslint": ">=7.4.0"
   },
